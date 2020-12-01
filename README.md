@@ -127,8 +127,7 @@ Losing Information? Invertibility Is Indispensable</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Image-Inpainting-Papers/blob/master/imh(67).pdf" style="text-decoration:none;">One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Image-Inpainting-Papers/blob/master/imh(68).pdf" style="text-decoration:none;">Mobile IPv6 Deployments:
-Graph-based Analysis and practical Guidelines</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Image-Inpainting-Papers/blob/master/imh(68).pdf" style="text-decoration:none;">Image Inpainting : Overview and Recent Advances</a></li> 
  
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Image-Inpainting-Papers/blob/master/imh(69).pdf" style="text-decoration:none;">Convolutional Dictionary Learning via Local Processing</a></li>                              
